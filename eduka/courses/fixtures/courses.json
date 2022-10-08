@@ -1,0 +1,14 @@
+[
+{
+  "model": "courses.course",
+  "pk": 1,
+  "fields": {
+    "owner": 1,
+    "subject": 1,
+    "title": "Titulo 1",
+    "slug": "titulo-1",
+    "overview": "Overview",
+    "created": "2022-10-07T23:57:00.413Z"
+  }
+}
+]
